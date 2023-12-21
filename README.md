@@ -7,17 +7,17 @@ In this project, I analyze crime in Los Angeles for 2022-2023 using R and Tablea
 This project follows the following framework:  
 
 [Define the Goal](https://github.com/ChandlerTinagero/LAcrime/edit/main/README.md#define-the-goal)  
-Data Collection  
-Data Cleaning and Processing  
-Analyze / Visualize  
-Report  
-Dashboard  
+[Data Collection](https://github.com/ChandlerTinagero/LAcrime/blame/main/README.md#data-collection)  
+[Data Cleaning and Processing] 
+[Analyze / Visualize](https://github.com/ChandlerTinagero/LAcrime/blame/main/README.md#data-collection)  
+[Report]  
+[Dashboard]  
 
 ## Define The Goal
 
-The goal of this project is first to better understand the overall crime profile in Los Angeles for 2022-2023 by looking at how different variables like time of day and geographic area impact crime . Next, I will get more specific by answering the following questions:  
+The goal of this project is first to better understand the overall crime profile in Los Angeles for 2022-2023 by looking at how different variables impact crime. Next, I will get more specific by answering the following questions:  
 1. What are the crime trends from 2021 to 2022? Which types of crime increased or decreased the sharpest?  
-2. Did LAPD achieve its goal, as stated in its Strategic Plan 2021-2023, of reducing robbery, aggravated assault, and sexual assault on the Metro by 5% from 2021 to 2022?  
+2. Did LAPD achieve its goal, as stated in its Strategic Plan 2021-2023, of reducing robbery, aggravated assault, and sexual assault on the Metro by 10% from 2021 to 2022?  
 3. How do victim demographics compare to the actual demographics of Los Angeles? Are certain genders, age groups, or races disproportionately the victims of crime?  
 
 ## Data Collection  
@@ -47,7 +47,7 @@ The first challenge I faced was that the TIME.OCC column was meant to be shown i
 ![alt text](https://github.com/ChandlerTinagero/LAcrime/blob/main/Time%20Head.png)\
 ![alt text](https://github.com/ChandlerTinagero/LAcrime/blob/main/Time%20Summary.png)
 
-I used the following function to convert the times to a more readable format.  
+I wrote the following function to convert the times to a more readable format.  
 ```
   hour <- int_time %/% 100  # getting the hour
   if (hour == 0) {
@@ -111,7 +111,7 @@ Summary of cleaned LA Crime dataset:
 
 ## Analyze / Visualize  
 
-
+Because so much of my data is categorical, the bulk of my analysis will be done in Tableau with visualizations. 
 
 ## Report  
 
