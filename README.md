@@ -99,7 +99,7 @@ summary(crime$Metro) # verify
 
 ### Filtering for Crimes that Occurred in 2021 and 2022  
 
-The primary focus of my analysis is on crimes that occurred from 2022-2023. I'm also interested in crimes from 2021 so that I can see trends and determmine whether LAPD has reached its goal of decreasing certain crimes by 10% on the Metro. I will filter for data from the beginning of 2021 to the end of 2022 using lubridate's year() function.  
+The primary focus of my analysis is on crimes that occurred during 2022. I'm also interested in crimes from 2021 so that I can see trends and determmine whether LAPD has acheived its goal of decreasing certain crimes by 10% on the Metro. I will filter for data from the beginning of 2021 to the end of 2022 using lubridate's year() function.  
 
 ```
 crime <- crime[year(crime$Date)==2021 | year(crime$Date)==2022, ] ## Filtering dataframe for crimes that occurred in 2021 and 2022
