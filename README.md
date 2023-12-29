@@ -21,7 +21,7 @@ The goal of this project is first to better understand the overall crime profile
 
 ## Data Collection  
 
-I will use a dataset titled "[USA, Los Angeles Crimes Data: 2020 To 2023](https://website-name.com](https://www.kaggle.com/datasets/ishmaelkiptoo/usa-los-angeles-crimes-data-2020-to-2023/data)https://www.kaggle.com/datasets/ishmaelkiptoo/usa-los-angeles-crimes-data-2020-to-2023/data)" from Kaggle to complete the bulk of my analysis. Originally published by the City of Los Angeles, the dataset encompasses individual entries for each crime incident with columns like date and time, victim demographics, location, and more. The dataset includes 21 columns and 847,725 rows in .csv format.   
+I will use a dataset titled "[USA, Los Angeles Crimes Data: 2020 To 2023](https://www.kaggle.com/datasets/ishmaelkiptoo/usa-los-angeles-crimes-data-2020-to-2023/data)https://www.kaggle.com/datasets/ishmaelkiptoo/usa-los-angeles-crimes-data-2020-to-2023/data)" from Kaggle to complete the bulk of my analysis. Originally published by the City of Los Angeles, the dataset encompasses individual entries for each crime incident with columns like date and time, victim demographics, location, and more. The dataset includes 21 columns and 847,725 rows in .csv format.   
 
 Additionally, I will use the [2021 Citywide Demographic Profile](https://planning.lacity.org/odocument/491f25dd-7c3f-4f53-984b-35b3038ecd05/standard_report_2021.pdf) by the Department of City Planning, City of Los Angeles. This report contains demographic information about Los Angeles and will be used to better understand victim demographics relative to the area.
 
