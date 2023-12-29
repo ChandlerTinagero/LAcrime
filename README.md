@@ -139,9 +139,20 @@ remove(crime_count_by_race22)
 
 ## Report  
 
-
+This [report](https://github.com/ChandlerTinagero/LAcrime/blob/main/Report.pdf) answers the following questions, initially outlined in the "Defining the Goal" section, using visualizations from Tableau.  
+  
+1. Trends  
+What are the crime trends from 2021 to 2022? Which types of crime increased or decreased the sharpest?  
+2. Demographics  
+How do victim demographics compare to the actual demographics of Los Angeles? Are certain genders, age groups, or races disproportionately the victims of crime?  
+3. Metro  
+Did LAPD achieve its goal, as stated in its Strategic Plan 2021- 2023, of reducing robbery, aggravated assault, and sexual assault on the Metro by 10% from 2021 to 2022?  
+4. Other Insights  
+After thoroughly examining crime in Los Angeles for 2022, which insights stood out?  
+  
 ## Dashboard   
-[dashboard](https://public.tableau.com/views/CrimeinLosAngeles2022/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Pictured below, this interactive [dashboard](https://public.tableau.com/views/CrimeinLosAngeles2022/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) includes information such as crime count, victim demographics, and type of crime.
 
 ![alt text](https://github.com/ChandlerTinagero/LAcrime/blob/main/Images_for_README/Dashboard.png)
 
