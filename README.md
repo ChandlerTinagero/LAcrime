@@ -27,7 +27,7 @@ Additionally, I will use the [2021 Citywide Demographic Profile](https://plannin
 
 ## Data Cleaning
 
-I will use R with the lubridate package to clean the LA crime dataset mentioned above. I will highlight a few key points of the data-cleaning process and summarize the cleaned dataset below. The R script with the entire data cleaning process is attached to this repository as crime.R.  
+I will use R with the lubridate package to clean the LA crime dataset mentioned above. I will highlight a few key points of the data-cleaning process and summarize the cleaned dataset below. The R script with the entire data cleaning process is attached to this repository as Crime.R.  
 
 ### Loading Packages and Reading in Data  
 
