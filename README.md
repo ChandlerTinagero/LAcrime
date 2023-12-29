@@ -2,7 +2,7 @@
 
 ## About
 
-Explore my personal project delving into Los Angeles's 2022 crime data. Completed in December 2023, this project includes a [report](https://github.com/ChandlerTinagero/LAcrime/blob/main/README.md#analyze--visualize) that uncovers surprising findings about crime in America's second-largest city. Additionally, the project features an interactive dashboard capable of answering questions such as 'Which LA neighborhoods report the most stolen vehicles?' or 'How are different demographics affected by crime?' Take a peek – it's all right [here](https://public.tableau.com/views/CrimeinLosAngeles2022/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)!
+Explore my personal project delving into Los Angeles's 2022 crime data. Completed in December 2023, this project includes a [report](https://github.com/ChandlerTinagero/LAcrime/blob/main/Report.pdf) that uncovers surprising findings about crime in America's second-largest city. Additionally, the project features an interactive dashboard capable of answering questions such as 'Which LA neighborhoods report the most stolen vehicles?' or 'How are different demographics affected by crime?' Take a peek – it's all right [here](https://public.tableau.com/views/CrimeinLosAngeles2022/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)!
 
 __Index:__  
 1. [Define the Goal](https://github.com/ChandlerTinagero/LAcrime/edit/main/README.md#define-the-goal)  
